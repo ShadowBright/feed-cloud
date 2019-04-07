@@ -45,6 +45,7 @@ RUN wget --quiet https://repo.continuum.io/miniconda/Miniconda-3.16.0-Linux-x86_
        'matplotlib' \
        'feedparser' \
        'pyqt=4.11.4' \
+       'libgfortran==1' \
        pyzmq \
        && conda clean -yt
 
