@@ -1,0 +1,17 @@
+http://www.reddit.com/top/?limit=100
+http://www.reddit.com/r/technology/top/?limit=100
+http://www.reddit.com/r/science/top/?limit=100
+http://www.reddit.com/r/MachineLearning/top/?limit=100
+http://www.reddit.com/r/programming/top/?limit=100
+http://www.reddit.com/r/privacy/top/?limit=100
+#http://www.reddit.com/r/news/top/?limit=100
+#http://www.reddit.com/r/politics/top/?limit=100
+#http://www.reddit.com/r/worldnews/top/?limit=100
+#http://www.reddit.com/r/todayilearned/top/?limit=100
+rss:http://www.inoreader.com/stream/user/1006104772/tag/Bigdata
+rss:http://www.inoreader.com/stream/user/1006104772/tag/Programming
+rss:http://www.inoreader.com/stream/user/1006104772/tag/Geek
+rss:http://www.inoreader.com/stream/user/1006104772/tag/Security
+#rss:http://programmers.stackexchange.com/feeds
+#rss:http://stackoverflow.com/feeds/tag?tagnames=security&sort=newest
+#rss:http://stackoverflow.com/feeds/tag?tagnames=machine-learning&sort=newest
